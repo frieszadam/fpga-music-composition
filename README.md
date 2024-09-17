@@ -4,5 +4,5 @@ Designed as the final project for Design of Digital Circuits and Systems EE371, 
 
 Full lab report including extensive design charts and verification available here: ![lab-report](lab-report.pdf)
 
-Top-level block diagram
+## Top-level block diagram
 ![block-diagram](block-diagram.png?raw=true)
